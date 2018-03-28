@@ -1,0 +1,10 @@
+e:\Project\C#\HCSSApi\bin\Debug\netcoreapp2.0\HCSSApi.deps.json
+e:\Project\C#\HCSSApi\bin\Debug\netcoreapp2.0\HCSSApi.runtimeconfig.json
+e:\Project\C#\HCSSApi\bin\Debug\netcoreapp2.0\HCSSApi.runtimeconfig.dev.json
+e:\Project\C#\HCSSApi\bin\Debug\netcoreapp2.0\HCSSApi.dll
+e:\Project\C#\HCSSApi\bin\Debug\netcoreapp2.0\HCSSApi.pdb
+e:\Project\C#\HCSSApi\obj\Debug\netcoreapp2.0\HCSSApi.csproj.CoreCompileInputs.cache
+e:\Project\C#\HCSSApi\obj\Debug\netcoreapp2.0\HCSSApi.AssemblyInfoInputs.cache
+e:\Project\C#\HCSSApi\obj\Debug\netcoreapp2.0\HCSSApi.AssemblyInfo.cs
+e:\Project\C#\HCSSApi\obj\Debug\netcoreapp2.0\HCSSApi.dll
+e:\Project\C#\HCSSApi\obj\Debug\netcoreapp2.0\HCSSApi.pdb
